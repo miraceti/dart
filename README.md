@@ -19,6 +19,8 @@ exoplanet dart application apk from python
 
 
 
+<img width="588" height="781" alt="image" src="https://github.com/user-attachments/assets/58ec4045-4bdc-4dec-b198-e7ddb3f4a495" />
+
 
 
 
